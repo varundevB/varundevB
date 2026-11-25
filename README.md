@@ -1,5 +1,5 @@
 #  About Me:
-🛠️ I’m currently working on end-to-end AI systems for prediction, personalization, and automation<br>🕺 I’m looking to collaborate on applied ML, NLP, RAG, and production AI projects<br>🤝 I’m looking for help with deploying scalable ML systems and improving model monitoring<br>🌱 I’m currently learning advanced deep learning, AI agents, and MLOps<br>💬 Ask me about Python, PyTorch, predictive modeling, data pipelines, and model deployment<br>⚡ Fun fact: I built models for both financial-crisis early warnings and player-behavior personalization
+🛠️ I’m currently working on end-to-end AI systems for prediction, personalization, and automation<br>🕺 I’m looking to collaborate on applied ML, NLP, RAG, and production AI projects<br>🤝 I’m looking for help with deploying scalable ML systems and improving model monitoring<br>🌱 I’m currently learning advanced deep learning, AI agents, and MLOps<br>💬 Ask me about Python, PyTorch, predictive modeling, data pipelines, and model deployment<br>
 
 
 ## 🌐 Socials:
