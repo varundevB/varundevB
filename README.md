@@ -1,5 +1,5 @@
 #  About Me:
-🛠️ I’m currently working on end-to-end AI systems for prediction, personalization, and automation<br>🕺 I’m looking to collaborate on applied ML, NLP, RAG, and production AI projects<br>🤝 I’m looking for help with deploying scalable ML systems and improving model monitoring<br>🌱 I’m currently learning advanced deep learning, AI agents, and MLOps<br>💬 Ask me about Python, PyTorch, predictive modeling, data pipelines, and model deployment<br>
+🛠️ I’m currently working on end-to-end AI systems for prediction, personalization, and automation<br> I’m looking to collaborate on applied ML, NLP, RAG, and production AI projects<br> I’m looking for help with deploying scalable ML systems and improving model monitoring<br> I’m currently learning advanced deep learning, AI agents, and MLOps<br>Ask me about Python, PyTorch, predictive modeling, data pipelines, and model deployment<br>
 
 
 ## 🌐 Socials:
@@ -12,26 +12,3 @@
 ![](https://streak-stats.demolab.com/?user=varundevB&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=varundevB&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varundevB&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=varundevB&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=varundevB&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**varundevB/varundevB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
